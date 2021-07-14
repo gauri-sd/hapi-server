@@ -1,0 +1,12 @@
+{
+    "env": "development",
+    "server": {
+        "port": 54500,
+        "host": "0.0.0.0"
+    },
+    "logging": {
+		"name": "DEV-PROJ",
+		"level": "debug",
+		"path": "/tmp/node_debug.log"
+    }
+}

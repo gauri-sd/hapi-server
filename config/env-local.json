@@ -1,0 +1,12 @@
+{
+    "env": "env-local",
+    "server": {
+        "port": 54504,
+        "host": "0.0.0.0"
+    },
+    "logging": {
+		"name": "STAG-PROJ",
+		"level": "debug",
+		"path": "/tmp/node_debug.log"
+    }
+}
